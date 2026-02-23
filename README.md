@@ -1,8 +1,11 @@
 # Chinook — Exercices SQL (MySQL Workbench)
 
 ## 📷 Captures (MySQL Workbench)
-![Tables Chinook](docs/screenshots/schemas.png)
-![Résultat - Top Tracks](docs/screenshots/top_tracks.png)
+<img width="736" height="500" alt="agent vente" src="https://github.com/user-attachments/assets/5ea310c2-5ecf-48cc-bffd-8efc74e5720e" />
+<img width="736" height="500" alt="client noamericans" src="https://github.com/user-attachments/assets/d7452829-ed95-453d-b33b-85ba0f68d918" />
+<img width="736" height="500" alt="exemple1" src="https://github.com/user-attachments/assets/daf2498b-8b99-4122-891b-a7c1a6efb30d" />
+
+
 Projet SQL sur la base Chinook (MySQL).  
 Objectif : importer Chinook puis résoudre 26 exercices (JOIN, GROUP BY, agrégations, analyses ventes).
 
