@@ -1,5 +1,6 @@
 # Chinook — Exercices SQL (MySQL Workbench)
 
+
 Projet SQL sur la base Chinook (MySQL).  
 Objectif : importer Chinook puis résoudre 26 exercices (JOIN, GROUP BY, agrégations, analyses ventes).
 
