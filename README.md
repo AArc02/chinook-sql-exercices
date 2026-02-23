@@ -1,6 +1,8 @@
 # Chinook — Exercices SQL (MySQL Workbench)
 
-
+## 📷 Captures (MySQL Workbench)
+![Tables Chinook](docs/screenshots/schemas.png)
+![Résultat - Top Tracks](docs/screenshots/top_tracks.png)
 Projet SQL sur la base Chinook (MySQL).  
 Objectif : importer Chinook puis résoudre 26 exercices (JOIN, GROUP BY, agrégations, analyses ventes).
 
